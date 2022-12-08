@@ -1,0 +1,45 @@
+.page{
+    overflow: auto;
+
+}
+.table-order{
+     direction: rtl; 
+    font-size: 16px;
+    overflow: auto;
+
+    
+}
+.power-icon{
+    padding-left: 10px;
+    font-size: 20px;
+}
+.shekel-icon{
+    font-size: 24px;
+}
+.shekel-icon-1{
+    color: green;
+}
+.shekel-icon-2{
+    color: red;
+}
+.shekel-icon-7{
+    color: rgb(196, 44, 163);
+}
+.shekel-icon-13{
+    color: rgb(26, 35, 167);
+}
+.shekel-icon-11{
+    color: rgb(187, 218, 17);
+}
+.th-order{
+    direction: rtl;
+}
+.mat-sort-header-container{
+    align-items: center;
+}
+.exampleSelaction{
+    margin: 12px 0;
+}
+.exampleMargin{
+    margin: 0 12px;
+}
